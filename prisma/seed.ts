@@ -14,6 +14,15 @@ const userData = [
     created_at: new Date(),
     updated_at: new Date(),
   },
+  {
+    id: 2,
+    name: 'Edison D',
+    email: 'edison@yavar.in',
+    mobile_no: '8610139246',
+    role: 'User',
+    created_at: new Date(),
+    updated_at: new Date(),
+  },
 ];
 
 async function main() {
